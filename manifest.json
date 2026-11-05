@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "kamradsmeshnyavy.bluetooth",
+  "name": "DOT-MATRIX Bluetooth",
+  "version": "1.0.0",
+  "author": "KamradSmeshnyavy",
+  "license": "MIT",
+  "description": "Bluetooth panel: devices, pairing and battery levels — the stock Omarchy bar widget in the DOT-MATRIX style",
+  "homepage": "https://github.com/KamradSmeshnyavy/omarchy-dotmatrix-bluetooth",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "DOT-MATRIX Bluetooth",
+    "description": "Omarchy Bluetooth panel in the DOT-MATRIX style",
+    "category": "Network",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.bluetooth"
+  }
+}
