@@ -9,6 +9,10 @@
 Из семейства DOT-MATRIX-плагинов: [скины бара](https://github.com/KamradSmeshnyavy/omarchy-bar-skins), [Customizer](https://github.com/KamradSmeshnyavy/omarchy-customizer) и
 [другие DOT-MATRIX-панели](https://github.com/KamradSmeshnyavy?tab=repositories&q=omarchy-dotmatrix).
 
+![Панель Bluetooth](screenshots/panel.webp)
+
+<!-- Demo video: repo-videos/omarchy-dotmatrix-bluetooth.mp4 — drag it here when editing this file on GitHub -->
+
 ## Установка
 
 ```sh
